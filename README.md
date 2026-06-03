@@ -65,9 +65,11 @@ Passionate about Software Engineering, System Programming, and Modern Web Develo
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adamzahraoui&show_icons=true&theme=github_dark&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adamzahraoui&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=tokyonight" />
 </p>
 
 ---
