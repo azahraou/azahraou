@@ -108,7 +108,7 @@ Passionate about Software Engineering, System Programming, and Modern Web Develo
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://www.linkedin.com/in/adam-zahraoui">
+  <a href="https://www.linkedin.com/in/adam-zahraoui-a9bb8a32a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
